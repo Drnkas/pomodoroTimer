@@ -1,16 +1,5 @@
-# pomodoro
+<h2 align= "center"> Manage your time with Pomodoro Technique </h2>
 
-A new Flutter project.
+<p align="center">Project was developed from Cod3r! Make your time productive :D </p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![First Image](assets/p1.png) ![Second Image](assets/p2.png)
